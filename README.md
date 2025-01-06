@@ -78,8 +78,8 @@ pip install -r requirements.txt
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/autonomous-driving-car-detection.git
-   cd autonomous-driving-car-detection
+   git clone https://github.com/MohammedSaqibMS/Car-detection-for-Autonomous-Driving.git
+   cd Car-detection-for-Autonomous-Driving
    ```
 2. Run the example scripts provided to test various functionalities.
 
