@@ -101,4 +101,4 @@ Contributions are welcome! Feel free to fork this repository, open issues, or su
 ---
 
 ### 📬 Contact
-For queries or collaboration, feel free to reach out via https://www.upwork.com/freelancers/~01c49d81acd187f26f
+For queries or collaboration, feel free to reach out via 
